@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function () {
             totalMark
         };
 
-        fetch('https://script.google.com/macros/s/AKfycbxkhUFWs92wt3hvmJoq5Rm4bLE1C99VgKp7HKrJ4L89JHpwNgh18DpmOktG9POvGHit8g/exec', {
+        fetch('https://script.google.com/macros/s/AKfycbzdFoy84MjFJUPE1JMQfgsmrFM337UaY3lDup1ZmamfG5CFC81U6xNc5bQ3MO_piE8wMA/exec', {
             method: 'POST',
             mode: 'no-cors',
             headers: {

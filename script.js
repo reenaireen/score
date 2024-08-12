@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
     function updateGroupPoster() {
         const selectedGroup = groupSelect.value;
         if (selectedGroup) {
-            const imagePath = `${selectedGroup}`;
+            const imagePath = `gamabar/${selectedGroup}`;
             const imageExtensions = ['jpg', 'png'];
             const pdfExtension = 'pdf';
             let found = false;
